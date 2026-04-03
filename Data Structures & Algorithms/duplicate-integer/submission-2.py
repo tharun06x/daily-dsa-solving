@@ -1,3 +1,4 @@
+#sorting and adjacent checking
 class Solution:
     def hasDuplicate(self, nums: List[int]) -> bool:
         nums.sort()
